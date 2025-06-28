@@ -1,0 +1,31 @@
+Universal Localhost Penetration Testing Platform v4.0
+Archive created: 2025-06-28 04:48:14
+============================================================
+
+FILES INCLUDED:
+--------------------
+INSTALLATION.md                          2 KB
+README.md                                3.45 KB
+debug_interface.php                      27.84 KB
+debug_remote_upload.php                  21.85 KB
+debug_upload_response.php                6.48 KB
+enhanced_remote_exploit.php              19.63 KB
+enhanced_shell_uploader.php              26.84 KB
+integrated_auth_bypass_api.php           23.69 KB
+logs/                                    [DIRECTORY]
+penetration_test_simple.php              5.81 KB
+penetration_tester.php                   60.76 KB
+penetration_tester_simple.php            79.5 KB
+real_demo31_upload.php                   3.22 KB
+real_shell_uploader_demo31.php           18.05 KB
+real_upload_to_demo31.php                1 B
+real_vulnerability_scanner.php           13.36 KB
+target_discovery.php                     12.91 KB
+test_bypass_api.php                      5.86 KB
+
+STATISTICS:
+--------------------
+Total files copied: 18
+Directories copied: 1
+Files skipped: 1
+Archive size: 380.87 KB

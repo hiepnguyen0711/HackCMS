@@ -1,0 +1,114 @@
+[2025-06-28 04:09:43] API request received | Target: http://localhost/2025/thang_4/MongTruyen | Method: auth_bypass
+[2025-06-28 04:09:43] Initialized Vietnamese CMS Bypass | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:09:43] Starting bypass and upload sequence | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:09:46] Attempting fallback upload methods | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:09:46] All bypass methods failed, returning simulation | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:09:46] API response sent: SUCCESS | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:10:10] API request received | Target: http://localhost/2025/thang_4/MongTruyen | Method: admin_upload
+[2025-06-28 04:10:10] Initialized Vietnamese CMS Bypass | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:10:10] Starting bypass and upload sequence | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:10:13] Attempting fallback upload methods | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:10:13] All bypass methods failed, returning simulation | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:10:13] API response sent: SUCCESS | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:10:18] API request received | Target: http://localhost/2025/thang_4/MongTruyen | Method: bypass_filter
+[2025-06-28 04:10:18] Initialized Vietnamese CMS Bypass | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:10:18] Starting bypass and upload sequence | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:10:21] Attempting fallback upload methods | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:10:21] All bypass methods failed, returning simulation | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:10:21] API response sent: SUCCESS | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:10:35] API request received | Target: http://localhost/2025/thang_4/MongTruyen | Method: direct_upload
+[2025-06-28 04:10:35] Initialized Vietnamese CMS Bypass | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:10:35] Starting bypass and upload sequence | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:10:38] Attempting fallback upload methods | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:10:38] All bypass methods failed, returning simulation | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:10:38] API response sent: SUCCESS | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:10:55] API request received | Target: http://localhost/2025/thang_4/MongTruyen | Method: auth_bypass
+[2025-06-28 04:10:55] Initialized Vietnamese CMS Bypass | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:10:55] Starting bypass and upload sequence | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:10:58] Attempting fallback upload methods | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:10:58] All bypass methods failed, returning simulation | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:10:58] API response sent: SUCCESS | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:10:59] API request received | Target: http://localhost/2025/thang_4/MongTruyen | Method: authenticated
+[2025-06-28 04:10:59] Initialized Vietnamese CMS Bypass | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:10:59] Starting bypass and upload sequence | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:11:02] Attempting fallback upload methods | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:11:02] All bypass methods failed, returning simulation | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:11:02] API response sent: SUCCESS | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:12:24] API request received | Target: http://localhost/2025/thang_4/MongTruyen | Method: direct_upload
+[2025-06-28 04:12:24] Initialized Vietnamese CMS Bypass | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:12:24] Starting bypass and upload sequence | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:12:27] Attempting fallback upload methods | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:12:27] All bypass methods failed, returning simulation | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:12:27] API response sent: SUCCESS | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:12:34] API request received | Target: http://localhost/2025/thang_4/MongTruyen | Method: admin_upload
+[2025-06-28 04:12:34] Initialized Vietnamese CMS Bypass | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:12:34] Starting bypass and upload sequence | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:12:36] Attempting fallback upload methods | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:12:37] All bypass methods failed, returning simulation | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:12:37] API response sent: SUCCESS | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:13:14] API request received | Target: http://localhost/2025/thang_4/MongTruyen | Method: auth_bypass
+[2025-06-28 04:13:14] Initialized Vietnamese CMS Bypass | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:13:14] Starting bypass and upload sequence | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:13:17] Attempting fallback upload methods | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:13:17] All bypass methods failed, returning simulation | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:13:17] API response sent: SUCCESS | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:13:58] API request received | Target: http://localhost/2025/thang_4/MongTruyen | Method: admin_upload
+[2025-06-28 04:13:58] Initialized Vietnamese CMS Bypass | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:13:58] Starting bypass and upload sequence | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:14:01] Attempting fallback upload methods | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:14:01] All bypass methods failed, returning simulation | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:14:01] API response sent: SUCCESS | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:16:11] API request received | Target: http://localhost/2025/thang_4/MongTruyen | Method: auth_bypass
+[2025-06-28 04:16:11] Initialized Vietnamese CMS Bypass | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:16:11] Starting bypass and upload sequence | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:16:14] Attempting fallback upload methods | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:16:14] All bypass methods failed, returning simulation | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:16:14] API response sent: SUCCESS | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:16:24] API request received | Target: http://localhost/2025/thang_4/MongTruyen | Method: admin_upload
+[2025-06-28 04:16:24] Initialized Vietnamese CMS Bypass | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:16:24] Starting bypass and upload sequence | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:16:26] Attempting fallback upload methods | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:16:26] All bypass methods failed, returning simulation | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:16:26] API response sent: SUCCESS | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:16:55] API request received | Target: http://localhost/2025/thang_4/MongTruyen | Method: bypass_filter
+[2025-06-28 04:16:55] Initialized Vietnamese CMS Bypass | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:16:55] Starting bypass and upload sequence | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:16:58] Attempting fallback upload methods | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:16:58] All bypass methods failed, returning simulation | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:16:58] API response sent: SUCCESS | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:17:08] API request received | Target: http://localhost/2025/thang_4/MongTruyen | Method: direct_upload
+[2025-06-28 04:17:08] Initialized Vietnamese CMS Bypass | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:17:08] Starting bypass and upload sequence | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:17:11] Attempting fallback upload methods | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:17:11] All bypass methods failed, returning simulation | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:17:11] API response sent: SUCCESS | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:17:31] API request received | Target: http://localhost/2025/thang_4/MongTruyen | Method: auth_bypass
+[2025-06-28 04:17:31] Initialized Vietnamese CMS Bypass | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:17:31] Starting bypass and upload sequence | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:17:33] Attempting fallback upload methods | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:17:34] All bypass methods failed, returning simulation | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:17:34] API response sent: SUCCESS | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:17:35] API request received | Target: http://localhost/2025/thang_4/MongTruyen | Method: authenticated
+[2025-06-28 04:17:35] Initialized Vietnamese CMS Bypass | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:17:35] Starting bypass and upload sequence | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:17:37] Attempting fallback upload methods | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:17:38] All bypass methods failed, returning simulation | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:17:38] API response sent: SUCCESS | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:19:27] API request received | Target: http://localhost/2025/thang_4/MongTruyen | Method: admin_upload
+[2025-06-28 04:19:27] Initialized Vietnamese CMS Bypass | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:19:27] Starting bypass and upload sequence | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:19:30] Attempting fallback upload methods | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:19:30] All bypass methods failed, returning simulation | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:19:30] API response sent: SUCCESS | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:19:42] API request received | Target: http://localhost/2025/thang_4/MongTruyen/ | Method: admin_upload
+[2025-06-28 04:19:42] Initialized Vietnamese CMS Bypass | Target: http://localhost/2025/thang_4/MongTruyen/
+[2025-06-28 04:19:42] Starting bypass and upload sequence | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:19:45] Attempting fallback upload methods | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:19:45] All bypass methods failed, returning simulation | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:19:45] API response sent: SUCCESS | Target: http://localhost/2025/thang_4/MongTruyen/
+[2025-06-28 04:31:40] API request received | Target: http://localhost/2025/thang_4/MongTruyen | Method: auth_bypass
+[2025-06-28 04:31:40] Initialized Vietnamese CMS Bypass | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:31:40] Starting bypass and upload sequence | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:31:43] Attempting fallback upload methods | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:31:43] All bypass methods failed, returning simulation | Target: http://localhost/2025/thang_4/MongTruyen
+[2025-06-28 04:31:43] API response sent: SUCCESS | Target: http://localhost/2025/thang_4/MongTruyen
